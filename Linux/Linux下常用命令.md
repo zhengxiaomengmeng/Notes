@@ -15,6 +15,7 @@ tags: Linux
 * `mv [源文件或目录]  [将要移动到的目录]`
 * `mv  mongo.conf /etc` 将mongo.conf文件移动到`/etc`目录下
 * `mv -r  /usr/local/mongodb  /etc` 将`/usr/local`路径下的mongodb文件夹移动到`/etc`目录下
+* `mv a.file b.file` 重命名，a.file重命名为b.file
 
 #### 删除
 * `rm file` 删除文件
